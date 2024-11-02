@@ -1,4 +1,3 @@
-"# Prova-Ailos-Questao4"
 
 SELECT 
     ASSUNTO,
